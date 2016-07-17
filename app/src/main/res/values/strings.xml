@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+
+    <string name="movie_type">Movie Type</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <!-- setting preferences -->
+    <string name="pref_movie_sort_order_label">Sort Movies</string>
+
+    <string name="pref_movie_sort_order_popular_label">Popular</string>
+
+    <string name="pref_movie_sort_order_top_rated_label">Top Rated</string>
+
+    <string name="pref_movie_sort_order_key">sort</string>
+
+    <string name="pref_movie_sort_order_popular" translatable="false">popular</string>
+
+    <string name="pref_movie_sort_order_top_rated" translatable="false">top_rated</string>
+    <string name="detail_activity_label">Movie Detail</string>
+    <string name="error_activity_label">Error</string>
+
+    <!-- Movie Detail Label -->
+
+</resources>
